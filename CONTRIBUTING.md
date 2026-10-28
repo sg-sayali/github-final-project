@@ -11,3 +11,4 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 5. Open a pull request describing your changes.
 
 Thank you for contributing to the Simple Interest Calculator project!
+For contributions, please follow the guidelines in this document.
