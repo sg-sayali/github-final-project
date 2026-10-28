@@ -50,3 +50,7 @@ Community leaders are obligated to respect the privacy and security of the repor
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at:
 
 https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+
+## Enforcement Guidelines
+
+Community leaders will review reports of unacceptable behavior and determine appropriate corrective actions based on the nature and severity of each incident. Actions may include a warning, temporary suspension, or permanent removal from the community.
